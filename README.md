@@ -1,8 +1,8 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Ahmad Fahmiaji**.\  
+Perkenalkan nama saya **Ahmad Fahmiaji**.
 
-Saya seorang **karyawan**.\  
+Saya seorang **karyawan**.
 
 <p align="left">
 <a href="https://github.com/fahmiaji">
